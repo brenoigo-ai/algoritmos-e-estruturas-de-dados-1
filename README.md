@@ -39,11 +39,9 @@ Para testar os códigos localmente, você precisa ter o Python 3 instalado na su
 
 Clone este repositório:
 
-Bash
-git clone https://github.com/brenoigo-ai/algoritmos-e-estruturas-de-dados-1.git
+git clone [https://github.com/brenoigo-ai/algoritmos-e-estruturas-de-dados-1.git](https://github.com/brenoigo-ai/algoritmos-e-estruturas-de-dados-1.git)
+
 Navegue até a pasta desejada e execute o arquivo correspondente. Por exemplo:
 
-Bash
 cd algoritmos-e-estruturas-de-dados-1/avaliacoes/pesquisa_votos/
 python3 avaliacao_pratica_pesquisa_votos.py
-
