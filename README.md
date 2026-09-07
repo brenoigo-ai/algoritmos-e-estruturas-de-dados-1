@@ -24,6 +24,7 @@ O repositório está organizado em módulos para facilitar a navegação. Cada p
  ┃ ┗ 📂 investimentos (Simulador financeiro com regra 50/30/20 e juros compostos)
  ┗ 📂 avaliacoes (Projetos avaliativos)
    ┗ 📂 pesquisa_votos (Sistema de Pesquisa Eleitoral com tabulação demográfica)
+
 🛠️ Características do Código
 Menus Interativos: Todos os scripts possuem um menu principal em loop contínuo, permitindo testar várias questões na mesma execução.
 
@@ -39,9 +40,10 @@ Para testar os códigos localmente, você precisa ter o Python 3 instalado na su
 Clone este repositório:
 
 Bash
-git clone [https://github.com/brenoigo-ai/algoritmos-e-estruturas-de-dados-1.git](https://github.com/brenoigo-ai/algoritmos-e-estruturas-de-dados-1.git)
+git clone https://github.com/brenoigo-ai/algoritmos-e-estruturas-de-dados-1.git
 Navegue até a pasta desejada e execute o arquivo correspondente. Por exemplo:
 
 Bash
 cd algoritmos-e-estruturas-de-dados-1/avaliacoes/pesquisa_votos/
 python3 avaliacao_pratica_pesquisa_votos.py
+
